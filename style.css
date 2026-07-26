@@ -1,0 +1,52 @@
+/* Background */
+.stApp{
+    background: linear-gradient(135deg,#0f172a,#1e293b);
+}
+
+/* Title */
+h1{
+    color:#38bdf8;
+    text-align:center;
+    font-weight:700;
+}
+
+/* Headings */
+h2,h3{
+    color:white;
+}
+
+/* Card */
+[data-testid="stMetric"]{
+    background:#1e293b;
+    padding:20px;
+    border-radius:15px;
+    border:1px solid #334155;
+}
+
+/* Button */
+.stButton>button{
+    width:100%;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:10px;
+    height:50px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.stButton>button:hover{
+    background:#1d4ed8;
+}
+
+/* Input */
+.stTextInput,
+.stSelectbox,
+.stNumberInput{
+    border-radius:10px;
+}
+
+/* Footer */
+footer{
+    visibility:hidden;
+}
