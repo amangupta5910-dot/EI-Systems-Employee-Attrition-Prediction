@@ -127,7 +127,7 @@ The application includes:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Employee-Attrition-Prediction.git
+https://github.com/amangupta5910-dot/EI-Systems-Employee-Attrition-Prediction.git
 ```
 
 Move to the project folder
