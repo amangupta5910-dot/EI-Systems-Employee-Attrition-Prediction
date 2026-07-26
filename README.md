@@ -150,10 +150,6 @@ streamlit run app.py
 
 ---
 
-## 📷 dashboard Screenshots
-
-
-```
 ## 📷 Dashboard Screenshots
 
 ### Dashboard
@@ -183,8 +179,6 @@ streamlit run app.py
 ### Model Information
 
 ![Model Information](screenshots/model_information.png)
-```
-
 ---
 
 ## 🎯 Future Improvements
