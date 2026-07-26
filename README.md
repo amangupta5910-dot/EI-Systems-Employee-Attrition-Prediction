@@ -127,7 +127,7 @@ The application includes:
 Clone the repository
 
 ```bash
-https://github.com/amangupta5910-dot/EI-Systems-Employee-Attrition-Prediction.git
+git clone https://github.com/yourusername/Employee-Attrition-Prediction.git
 ```
 
 Move to the project folder
@@ -145,7 +145,7 @@ pip install -r requirements.txt
 Run the application
 
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
 ```
 
 ---
@@ -154,19 +154,35 @@ python -m streamlit run app.py
 
 
 ```
-screenshots/dashboard.png
+## 📷 Dashboard Screenshots
 
-screenshots/prediction.png
+### Dashboard
 
-screenshots/summary.png
+![Dashboard](screenshots/dashboard.png)
 
-screenshots/ai_insights.png
+### Prediction
 
-screenshots/attrition_probability.png
+![Prediction](screenshots/prediction.png)
 
-screenshots/feature_importance.png
+### AI Insights
 
-screenshots/model_performance.png
+![AI Insights](screenshots/ai_insights.png)
+
+### Feature Importance
+
+![Feature Importance](screenshots/feature_importance.png)
+
+### Summary
+
+![Summary](screenshots/summary.png)
+
+### Attrition Probability
+
+![Attrition Probability](screenshots/attrition_probability.png)
+
+### Model Performance
+
+![Model Performance](screenshots/model_performance.png)
 ```
 
 ---
